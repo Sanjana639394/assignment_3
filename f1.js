@@ -3,3 +3,4 @@ console.log("maiiiii")
 let a=10;
 //jhjkjgjg
 let b=20;
+let f=10;
